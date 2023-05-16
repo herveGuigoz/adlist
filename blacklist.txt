@@ -1,1 +1,2 @@
 femetrics.grammarly.io
+copilot-telemetry.githubusercontent.com
