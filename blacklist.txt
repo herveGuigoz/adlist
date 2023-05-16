@@ -1,2 +1,3 @@
-femetrics.grammarly.io
-copilot-telemetry.githubusercontent.com
+0.0.0.0 femetrics.grammarly.io
+0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 itunes.apple.com
