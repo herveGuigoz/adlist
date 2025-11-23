@@ -2,3 +2,5 @@
 0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 itunes.apple.com
 0.0.0.0 ads-canalplus.akamaized.net
+0.0.0.0 c.iads.unity3d.com
+0.0.0.0 o.iads.unity3d.com
