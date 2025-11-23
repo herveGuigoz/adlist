@@ -1,3 +1,4 @@
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 itunes.apple.com
+0.0.0.0 ads-canalplus.akamaized.net
